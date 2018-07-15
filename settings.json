@@ -1,16 +1,13 @@
-// Place your settings in this file to overwrite the default settings
 {
+    "workbench.colorTheme": "Cobalt2",
+    "workbench.iconTheme": "material-icon-theme",
     "editor.renderWhitespace": "all",
     "editor.mouseWheelZoom": true,
-    "window.zoomLevel": 0,
-    "workbench.iconTheme": "vscode-icons",
-    "window.menuBarVisibility": "default",
     "workbench.sideBar.location": "right",
     "editor.fontSize": 13,
-    "workbench.colorTheme": "One Dark Pro Vivid",
     "git.enableSmartCommit": true,
     "editor.fontLigatures": true,
     "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
     "vetur.format.defaultFormatter.js": "vscode-typescript",
     "vetur.format.defaultFormatter.html": "js-beautify-html"
-}   
+}
